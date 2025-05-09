@@ -1,0 +1,182 @@
+/*!
+	Copyright (c) 2018 Jed Watson.
+	Licensed under the MIT License (MIT), see
+	http://jedwatson.github.io/classnames
+*/
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/**
+ * @license React
+ * react-dom.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-is.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react-jsx-runtime.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * react.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * scheduler.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @license React
+ * use-sync-external-store-with-selector.production.min.js
+ *
+ * Copyright (c) Facebook, Inc. and its affiliates.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE file in the root directory of this source tree.
+ */
+
+/**
+ * @remix-run/router v1.3.2
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
+ * React Router DOM v6.8.1
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+/**
+ * React Router v6.8.1
+ *
+ * Copyright (c) Remix Software Inc.
+ *
+ * This source code is licensed under the MIT license found in the
+ * LICENSE.md file in the root directory of this source tree.
+ *
+ * @license MIT
+ */
+
+//! Checking for invalid state or state is null 
+
+//! FETCH_CART_DETAILS
+
+//! REJECTED: ADDRESS_ADD_NEW_DATA
+
+//! REJECTED: ADDRESS_DATA_DELETING
+
+//! REJECTED: ADDRESS_DATA_FETCHING
+
+//! REJECTED: ADDRESS_GET_BY_Id_ADDRESS
+
+//! REJECTED: ADDRESS_SET_DEFAULT_ADDRESS
+
+//! REJECTED: ADDRESS_UPDATE_ADDRESS
+
+//! REJECTED: ADD_PLANTS_TO_NURSERY
+
+//! REJECTED: CONFIRM_ORDER_AFTER_PAYMENT_SUCCESSFUL
+
+//! REJECTED: Create_ORDER_HISTORY
+
+//! REJECTED: GET_LAST_ORDER
+
+//! REJECTED: GET_ORDER_DETAILS
+
+//! REJECTED: GET_ORDER_HISTORY
+
+//! REJECTED: GET_SELECTED_SHIPPING_ASYNC
+
+//! REJECTED: GET_SHIPPING_DATA_ASYNC
+
+//! REJECTED: GET_VALIDATE_CHECKOUT_PROCESS
+
+//! REJECTED: INIT_CHECKOUT_PROCESS
+
+//! REJECTED: NURSERY_CREATE
+
+//! REJECTED: NURSERY_DETAILS
+
+//! REJECTED: NURSERY_HEADERS_IMAGES_UPLOAD
+
+//! REJECTED: NURSERY_PROFILE
+
+//! REJECTED: NURSERY_STORE_ADD_NEW_TAB_SECTION
+
+//! REJECTED: NURSERY_STORE_ADD_TEMPLATE
+
+//! REJECTED: NURSERY_STORE_CHANGE_RENDER_POSITION
+
+//! REJECTED: NURSERY_STORE_DATA
+
+//! REJECTED: NURSERY_STORE_DELETE_TEMPLATE_FORM_TAB_SECTION
+
+//! REJECTED: NURSERY_STORE_IMAGE_UPLOADING_TAB_SECTION
+
+//! REJECTED: NURSERY_UPDATE
+
+//! REJECTED: PASSWORD_RESET
+
+//! REJECTED: TWO_FACTOR_AUTH_TOKEN
+
+//! REJECTED: UPDATE_SELECTED_SHIPPING_ASYNC
+
+//! REJECTED: USER_AUTH_CHECK 
+
+//! REJECTED: USER_AVATAR_IMAGES_UPLOAD
+
+//! REJECTED: USER_LOGIN
+
+//! REJECTED: USER_LOGOUT
+
+//! REJECTED: USER_PROFILE
+
+//! REJECTED: USER_SIGN-UP
+
+//! REJECTED: VALIDATE_TWO_FACTOR_AUTH
+
+//! if current section is not info or null or undefined
+
+//! if we move two or more steps up and down, to change the positions 
